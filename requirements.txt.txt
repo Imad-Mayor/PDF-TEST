@@ -3,3 +3,5 @@ pdf2docx
 pdf2image
 PyPDF2
 pillow
+pandas-datareader
+pandas
